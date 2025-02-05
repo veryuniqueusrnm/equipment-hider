@@ -18,6 +18,6 @@ I used different texture packs for hiding the armor and the elytra on my skin, b
 
 Licensed under Apache License 2.0, you are free to make changes to the existing code and distribute it.
 
-## About distributing
+## About distribution
 
 I keep this pack updated for future game versions on Modrinth. This repository stays on Minecraft version 1.21.4. Sorry for any inconvenience.
