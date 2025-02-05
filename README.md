@@ -6,7 +6,7 @@ It's a resource pack that sets the model of various items hidden or invisible.
 
 ## What does it hide?
 
-- Armors (Leather, Chain, Iron, Gold, Diamond and Netherite
+- Armors (Leather, Chain, Iron, Gold, Diamond and Netherite)
 - Elytra
 - Turtle Helmet
 
